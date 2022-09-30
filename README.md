@@ -1,1 +1,1 @@
-devteor is programming team
+devteor
